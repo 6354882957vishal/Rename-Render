@@ -1,6 +1,6 @@
 # Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Subscribe YouTube Channel For Amazing Bot @
+# Ask Doubt on telegram @King1_devil
 
 
 import re, os
@@ -15,13 +15,13 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "6981801398:AAG-3rtau0VJfzzvWbHUqPH8RjrU
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "Video_1remove_bot") 
 
-             # Don't Remove Credit @VJ_Botz
-             # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
+             # Don't Remove Credit @SUMIT_KING2
+             # Subscribe YouTube Channel For Amazing Bot @SUMIT_KING
              # Ask Doubt on telegram @KingVJ01
 
 DB_NAME = os.environ.get("DB_NAME", "renamevjbot")     
 
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://autoplayhackerautoplay:<qm0Smmrexrqp1343>@cluster0.pp5js8h.mongodb.net/")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://loveyouhacker499:<7OPdxBQh4jnnh9yD>@cluster0.ftrtj6o.mongodb.net/?retryWrites=true&w=majority")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
