@@ -1,5 +1,5 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @
+# Don't Remove Credit @SUMIT_KING_2
+# Subscribe YouTube Channel For Amazing Bot @SUMIT_KING_9
 # Ask Doubt on telegram @King1_devil
 
 
@@ -11,13 +11,13 @@ API_ID = os.environ.get("API_ID", "26489431")
 
 API_HASH = os.environ.get("API_HASH", "9a2fce85339bb79254a55368a61ab92f")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6981801398:AAG-3rtau0VJfzzvWbHUqPH8RjrULOoB9_0") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6946329392:AAFe5-qK8azQz5EHf_jC3QxQ0QPNpQwSu14") 
 
-FORCE_SUB = os.environ.get("FORCE_SUB", "Video_1remove_bot") 
+FORCE_SUB = os.environ.get("FORCE_SUB", "SUMIT_KING_2") 
 
              # Don't Remove Credit @SUMIT_KING2
-             # Subscribe YouTube Channel For Amazing Bot @SUMIT_KING
-             # Ask Doubt on telegram @KingVJ01
+             # Subscribe YouTube Channel For Amazing Bot @SUMIT_KING9
+             # Ask Doubt on telegram @King1_devil
 
 DB_NAME = os.environ.get("DB_NAME", "renamevjbot")     
 
@@ -31,6 +31,6 @@ ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in os.envir
 
 PORT = os.environ.get("PORT", "8080")
 
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @SUMIT_KING_2
+# Subscribe YouTube Channel For Amazing Bot @SUMIT_KING_9
+# Ask Doubt on telegram @King1_devil
