@@ -11,7 +11,7 @@ API_ID = os.environ.get("API_ID", "26489431")
 
 API_HASH = os.environ.get("API_HASH", "9a2fce85339bb79254a55368a61ab92f")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6946329392:AAFe5-qK8azQz5EHf_jC3QxQ0QPNpQwSu14") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6793109224:AAGR1QHXYgvkZRLhbyWbheTmA5EhHPlIv30") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "SUMIT_KING_2") 
 
