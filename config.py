@@ -11,7 +11,7 @@ API_ID = os.environ.get("API_ID", "26489431")
 
 API_HASH = os.environ.get("API_HASH", "9a2fce85339bb79254a55368a61ab92f")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6793109224:AAGR1QHXYgvkZRLhbyWbheTmA5EhHPlIv30") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6282515492:AAHWHi3CXqlBCzSmIDn2ebDNjQ4enQ0DJcI") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "SUMIT_KING2") 
 
@@ -19,7 +19,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "SUMIT_KING2")
              # Subscribe YouTube Channel For Amazing Bot @SUMIT_KING9
              # Ask Doubt on telegram @King1_devil
 
-DB_NAME = os.environ.get("DB_NAME", "Cluster0")     
+DB_NAME = os.environ.get("DB_NAME", "Filerename4GBbot")     
 
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://loveyouhacker499:<7OPdxBQh4jnnh9yD>@cluster0.ftrtj6o.mongodb.net/?retryWrites=true&w=majority")
  
