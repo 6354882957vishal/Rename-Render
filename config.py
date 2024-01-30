@@ -19,7 +19,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "SUMIT_KING2")
              # Subscribe YouTube Channel For Amazing Bot @SUMIT_KING9
              # Ask Doubt on telegram @King1_devil
 
-DB_NAME = os.environ.get("DB_NAME", "Filerename4GBbot")     
+DB_NAME = os.environ.get("DB_NAME", "renamevjbot")     
 
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://narutoajr3:cONq92hwYg64X4mv@cluster0.peq9vil.mongodb.net/?retryWrites=true&w=majority")
  
