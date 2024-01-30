@@ -7,11 +7,11 @@ import re, os
 
 id_pattern = re.compile(r'^.\d+$') 
 
-API_ID = os.environ.get("API_ID", "26489431")
+API_ID = os.environ.get("API_ID", "29943848")
 
-API_HASH = os.environ.get("API_HASH", "9a2fce85339bb79254a55368a61ab92f")
+API_HASH = os.environ.get("API_HASH", "43953a2e9967683decfe979f2ede27e0")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6282515492:AAHWHi3CXqlBCzSmIDn2ebDNjQ4enQ0DJcI") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6547990933:AAHFMjvW76QPAS_EpaFJFQIYhWe3yMx3E1U") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "SUMIT_KING2") 
 
@@ -21,7 +21,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "SUMIT_KING2")
 
 DB_NAME = os.environ.get("DB_NAME", "Filerename4GBbot")     
 
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://loveyouhacker499:<7OPdxBQh4jnnh9yD>@cluster0.ftrtj6o.mongodb.net/?retryWrites=true&w=majority")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://narutoajr3:cONq92hwYg64X4mv@cluster0.peq9vil.mongodb.net/?retryWrites=true&w=majority")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
